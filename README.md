@@ -25,7 +25,7 @@ This project is licensed under the MIT License. Feel free to modify and distribu
 
 ### Acknowledgments
 
-- Beautiful Soup - For providing an easy-to-use library for web scraping.
+- [Beautifull Soup](https://www.crummy.com/software/BeautifulSoup/): - For providing an easy-to-use library for web scraping.
 - [Matplotlib](https://matplotlib.org/): For creating high-quality visualizations in Python.
 - [MplSoccer](https://github.com/andrewRowlinson/mplsoccer): For creating high-quality soccer chart visualizations in Python.
 - [Andrew Rowlinson](https://github.com/andrewRowlinson) and [Anmol Durgapal](https://github.com/Slothfulwave612) for their contributions to `mplsoccer` and `PyPizza`.
